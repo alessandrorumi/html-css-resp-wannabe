@@ -133,9 +133,8 @@ img {
  @media all and (max-width: 768px) {
     
     .container {
-        width: 95vw;
-    }
-    
+        width: 97vw;
+    }  
  }
 
 /* Smartphone View */
@@ -168,4 +167,13 @@ img {
         padding-bottom: 1rem;
         padding-top: 3rem;
     }
+ }
+
+/* Bonus */
+
+ @media all and (max-width: 1160px) {
+    
+    .container {
+        width: 97vw;
+    }  
  }
