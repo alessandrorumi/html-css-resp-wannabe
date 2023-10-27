@@ -133,7 +133,8 @@ img {
  @media all and (max-width: 768px) {
     
     .container {
-        width: 97vw;
+        width: 100%;
+        padding: 0 10px;
     }  
  }
 
@@ -174,6 +175,7 @@ img {
  @media all and (max-width: 1160px) {
     
     .container {
-        width: 97vw;
+        width: 100%;
+        padding: 0 10px;
     }  
  }
